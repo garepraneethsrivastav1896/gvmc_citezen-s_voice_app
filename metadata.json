@@ -1,0 +1,6 @@
+{
+  "name": "GVMC CivicPulse - Smart City Governance Platform",
+  "description": "AI-powered Smart City Citizen Grievance & Ward Governance System for Greater Visakhapatnam Municipal Corporation with PostGIS spatial tracking, officer dispatch, commissioner approvals, multi-lingual support, and real-time analytics.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
